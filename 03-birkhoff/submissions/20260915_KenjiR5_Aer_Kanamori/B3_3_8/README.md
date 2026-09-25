@@ -32,9 +32,9 @@ This directory contains the submission for the problem **B3_3_8**.
 | ====== |  |
 | Hardware Specifications | Intel Core Ultra 5 225U CPU; 15.46 GiB RAM; Windows 11; CPU simulation |
 | ====== |  |
-| Total Runtime | 1.470988760 |
-| Time to Solution | 1.470988760 |
-| CPU Runtime | 1.470988760 |
+| Total Runtime | 1.471 |
+| Time to Solution | 1.471 |
+| CPU Runtime | 1.471 |
 | GPU Runtime | N/A |
 | QPU Runtime | 0 |
 | Other HW Runtime | 0 |
