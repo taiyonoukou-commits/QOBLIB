@@ -7,7 +7,7 @@ This directory contains the submission for the problem **B3_3_5**.
 | Problem | B3_3_5 |
 | Submitter | Kenji Kanamori |
 | Affiliation | Independent Researcher |
-| Date | 2026-09-14 |
+| Date | 2026-09-25 |
 | ====== |  |
 | Reference | README.md in this submission package |
 | Best Objective Value | 3 |
@@ -25,18 +25,18 @@ This directory contains the submission for the problem **B3_3_5**.
 | Workflow | Public JSON instance -> Aer role acquisition -> Universal Joint -> fixed Kenji R5 release -> exact weight reconstruction -> official validator |
 | Algorithm Type | Stochastic |
 | Paradigm | Quantum Simulator |
-| # Runs | 1 |
-| # Feasible Runs | 1 |
-| # Successful Runs | 1 |
+| # Runs | 5 |
+| # Feasible Runs | 5 |
+| # Successful Runs | 5 |
 | Success Threshold | 0 |
 | ====== |  |
 | Hardware Specifications | Intel Core Ultra 5 225U CPU; 15.46 GiB RAM; Windows 11; CPU simulation |
 | ====== |  |
-| Total Runtime | 0.932818200 |
-| Time to Solution | 0.932818200 |
-| CPU Runtime | 0.932818200 |
+| Total Runtime | 1.525244100 |
+| Time to Solution | 1.525244100 |
+| CPU Runtime | 1.525244100 |
 | GPU Runtime | N/A |
 | QPU Runtime | 0 |
 | Other HW Runtime | 0 |
 | ====== |  |
-| Remarks | One actual run; six role acquisitions are components, not independent runs; Aer 4096 shots per role; official validator PASS on attempt 1; no classical answer generation or repair; RUN_QPU=false |
+| Remarks | 5 independent stochastic runs (1 provenance-audited historical + 4 fresh); six Aer role acquisitions are components of each run, not separate runs; 4096 shots per role; 5/5 feasible and 5/5 successful; fixed Kenji/UJ authority 958AC865431968359C3318815C198A228350982FF8D489E6BC252B57E0E3E156; truth isolated until output commitment; RUN_QPU=false; no IBM/provider/QPU calls |

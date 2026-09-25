@@ -1,8 +1,32 @@
 [
   [
     {
-      "Time": 0.9849287,
-      "Incumbent": 5.0
+      "Incumbent": 5.0,
+      "Time": 0.9849287
+    }
+  ],
+  [
+    {
+      "Incumbent": 5.0,
+      "Time": 1.5982599
+    }
+  ],
+  [
+    {
+      "Incumbent": 5.0,
+      "Time": 1.7701979
+    }
+  ],
+  [
+    {
+      "Incumbent": 5.0,
+      "Time": 1.5134481
+    }
+  ],
+  [
+    {
+      "Incumbent": 5.0,
+      "Time": 1.575681
     }
   ]
 ]
