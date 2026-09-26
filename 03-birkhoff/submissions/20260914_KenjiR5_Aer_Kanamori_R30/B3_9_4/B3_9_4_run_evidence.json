@@ -1,0 +1,16 @@
+{
+  "schema": "QOBLIB_KENJI_PUBLIC_AGGREGATE_R1",
+  "instance": "B3_9_4",
+  "fixed_kenji_authority_sha256": "958AC865431968359C3318815C198A228350982FF8D489E6BC252B57E0E3E156",
+  "independent_runs": 1,
+  "feasible_runs": 1,
+  "successful_runs": 1,
+  "best_objective": 5,
+  "run_objectives": [],
+  "validation": "Official QOBLIB validation evidence recorded",
+  "paradigm": "Quantum Simulator",
+  "qpu_used": false,
+  "classical_answer_generation": false,
+  "classical_final_repair": false,
+  "disclosure": "Fine-grained acquisition, timing, randomization, internal-state, and measurement records are retained privately."
+}
